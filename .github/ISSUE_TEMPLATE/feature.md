@@ -1,5 +1,5 @@
 ---
-name: feature.md
+name: feature
 about: Issue template for features.
 title: ''
 labels: ''
